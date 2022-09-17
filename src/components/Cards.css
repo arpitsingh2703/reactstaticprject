@@ -1,0 +1,20 @@
+.inner_card{
+    border: 1px solid rgb(228, 218, 218);
+    background-color: black;
+    color: white;
+    margin: 10px 10px 10px 10px;
+}
+.cards{
+    border: 2px solid rgb(241, 235, 235);
+    background-color: black;
+    color: rgb(247, 241, 241);
+    /* margin: 2px 2px 2px 2px; */
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+#a{
+    border-radius: 5px;
+    background-color: gray;
+}
