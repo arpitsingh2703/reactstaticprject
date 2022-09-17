@@ -7,11 +7,11 @@ function App() {
 		<div className="App">
 			<Header />
 			<NavBar />
-			<div className="app_cards">
+			<div className="">
 				<Cards />
 			</div>
 		</div>
 	);
 }
 
-export default App;
+export default App;app_cards
